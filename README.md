@@ -26,3 +26,8 @@ For reference the data is in UTC+0. Azorian ports in UTC-1.
 203.3 — Angra do Heroísmo
 203.4 — Horta
 203.5 — Lajes das Flores
+
+
+**Source:**
+
+https://loja.hidrografico.pt/ln/web/wp-content/uploads/2023/11/TabMares_I_2024_completo_signed.pdf
