@@ -7,7 +7,6 @@ Author of the data is the portuguese Hydrographic Institute.
 For reference the data is in UTC+0. Azorian ports in UTC-1. 
 
 **Index:**
-
 201.1 — Viana do Castelo
 201.2 — Leixões
 201.3 — Aveiro
